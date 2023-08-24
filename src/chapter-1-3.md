@@ -1,5 +1,3 @@
-The Role of ChatGPT in Player Interaction and Game Moderation
-===========================================================================
 
 The gaming industry has seen significant growth over the years, with advancements in technology leading to more complex and immersive gaming experiences. With this growth comes the need for effective player interaction and game moderation to ensure a positive and engaging gaming experience for all players.
 

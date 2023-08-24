@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Gaming Industry
-================================================================================================================
 
 The use of artificial intelligence (AI) and chatbots in the gaming industry has numerous benefits for both players and game developers. In this chapter, we will explore the benefits of using AI and chatbots in the gaming industry.
 

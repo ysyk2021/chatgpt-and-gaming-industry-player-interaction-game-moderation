@@ -1,5 +1,3 @@
-Different Types of Games
-==============================================================
 
 The gaming industry is a diverse and ever-growing field, with a wide range of games available to players worldwide. In this chapter, we will explore the different types of games that exist within the industry, including their features, gameplay mechanics, and target audience.
 

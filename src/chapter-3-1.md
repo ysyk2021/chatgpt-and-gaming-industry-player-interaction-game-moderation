@@ -1,5 +1,3 @@
-Factors Affecting Gaming Industry
-===========================================================================
 
 The gaming industry is facing several challenges that can impact the overall gaming experience for players. In this chapter, we will explore some of the factors that are affecting the gaming industry and contributing to these challenges.
 

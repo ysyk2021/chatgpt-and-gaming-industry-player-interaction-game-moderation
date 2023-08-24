@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-==========================================================================================
 
 Artificial intelligence (AI) and chatbots are becoming increasingly prevalent in the gaming industry, providing new opportunities for player interaction and game moderation. In this chapter, we will introduce AI and chatbots and their potential applications in the gaming industry.
 

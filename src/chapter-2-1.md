@@ -1,5 +1,3 @@
-Definition of gaming industry
-===================================================================
 
 The gaming industry is a rapidly growing sector that encompasses various activities related to the development, marketing, and distribution of video games. In general, the gaming industry refers to the business of creating and monetizing video games, including consoles, mobile devices, personal computers, and other platforms.
 

@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, we have explored the potential of ChatGPT in enhancing player interaction and game moderation in the gaming industry. We have discussed the principles and techniques of using ChatGPT to create engaging conversational experiences with players while ensuring fair play and positive behaviors.
 

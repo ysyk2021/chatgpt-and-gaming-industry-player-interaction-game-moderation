@@ -1,5 +1,3 @@
-Importance of Gaming Industry for Entertainment
-=====================================================================================
 
 The gaming industry has become a major player in the entertainment world, offering a wide range of interactive experiences for players of all ages. In this chapter, we will explore the basics of the gaming industry and highlight the importance of this industry for entertainment.
 

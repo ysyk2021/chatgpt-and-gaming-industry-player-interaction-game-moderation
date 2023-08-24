@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT is an artificial intelligence (AI) language model developed by OpenAI that can understand and generate human-like text. In the gaming industry, ChatGPT can be used to improve player interaction and game moderation. In this chapter, we will explore what ChatGPT is, its features and capabilities, and how it can be used in the gaming industry.
 

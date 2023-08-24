@@ -1,5 +1,3 @@
-Chapter 1: Basics of Gaming Industry
-====================================
 
 The gaming industry is a dynamic and rapidly growing industry that has become an integral part of the entertainment world. In this chapter, we will explore the basics of the gaming industry, including its definition, different types of games, and the importance of the industry for entertainment.
 

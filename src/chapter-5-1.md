@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is an advanced natural language processing tool that has the potential to revolutionize player interaction and game moderation in the gaming industry. Developed by OpenAI, ChatGPT is a variant of the GPT (Generative Pre-trained Transformer) family of models.
 

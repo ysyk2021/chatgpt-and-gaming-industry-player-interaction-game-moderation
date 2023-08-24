@@ -1,5 +1,3 @@
-Best practices for using ChatGPT in game moderation
-=======================================================================================================
 
 Game moderation is a crucial aspect of the gaming industry, ensuring fair play and maintaining a safe and enjoyable environment for all players. ChatGPT can assist moderators in identifying and addressing inappropriate behavior within games, but it is essential to follow best practices to ensure its effectiveness. In this chapter, we will explore the best practices for using ChatGPT in game moderation.
 
