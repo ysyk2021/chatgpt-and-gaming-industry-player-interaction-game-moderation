@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for Using ChatGPT in Game Moderation
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by artificial intelligence, has the potential to revolutionize game moderation by providing real-time player interaction monitoring and intervention. However, implementing ChatGPT effectively requires careful consideration of best practices to ensure a safe and positive gaming environment. This chapter explores key best practices for using ChatGPT in game moderation.
 

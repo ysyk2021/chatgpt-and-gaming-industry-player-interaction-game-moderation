@@ -1,5 +1,4 @@
-Chapter 2: Importance of the Gaming Industry for Entertainment
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The gaming industry has emerged as a significant force in the entertainment landscape, captivating millions of people worldwide. In this chapter, we explore the importance of the gaming industry for entertainment and its impact on society.
 

@@ -1,5 +1,4 @@
-Chapter 2: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by OpenAI's advanced language model, GPT-3.5, possesses a wide range of features and capabilities that make it a valuable tool for enhancing player interaction and game moderation within the gaming industry. In this chapter, we explore the key features and capabilities of ChatGPT that contribute to its effectiveness in gaming applications.
 

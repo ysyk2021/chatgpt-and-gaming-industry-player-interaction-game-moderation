@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Gaming Industry
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The gaming industry is a dynamic and multifaceted sector that encompasses the creation, development, publishing, and distribution of video games. It revolves around the production of interactive digital entertainment experiences that engage players through various platforms, including consoles, computers, mobile devices, and virtual reality.
 

@@ -1,5 +1,4 @@
-Chapter 2: Impact of These Challenges on Gaming Experience
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The challenges faced in integrating ChatGPT into player interaction and game moderation have a significant impact on the overall gaming experience. In this chapter, we explore how these challenges influence various aspects of gameplay and player engagement.
 

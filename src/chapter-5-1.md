@@ -1,5 +1,4 @@
-Chapter 1: What Is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an AI-powered conversational agent that utilizes OpenAI's GPT-3.5 (Generative Pre-trained Transformer 3.5) language model to facilitate natural language interactions with players in the gaming industry. The GPT-3.5 model is a state-of-the-art language processing system that can generate human-like responses to prompts or queries, creating dynamic and engaging conversational experiences for players.
 

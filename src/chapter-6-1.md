@@ -1,5 +1,4 @@
-Chapter 6: Steps to Implement ChatGPT for Enhancing Gaming Experience
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the step-by-step process for game developers to successfully implement ChatGPT to enhance player interaction and improve the gaming experience. By following these steps, developers can leverage the power of AI to create immersive and engaging gameplay for their users.
 

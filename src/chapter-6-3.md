@@ -1,5 +1,4 @@
-Chapter 5: Case Studies of Game Developers Successfully Implementing ChatGPT for Player Interaction and Game Moderation
-=======================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by artificial intelligence, has been embraced by numerous game developers to enhance player interaction and improve game moderation. In this chapter, we explore several case studies of game developers that have successfully implemented ChatGPT, showcasing the benefits, challenges, and lessons learned from their experiences.
 

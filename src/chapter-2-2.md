@@ -1,5 +1,4 @@
-Chapter 3: Different Types of Games
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The gaming industry offers a wide array of games that cater to diverse player preferences and interests. In this chapter, we explore the different types of games available, from action-packed adventures to cerebral puzzles and everything in between.
 

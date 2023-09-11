@@ -1,5 +1,4 @@
-Chapter 7: Benefits of Using AI and Chatbots for the Gaming Industry
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI technology and chatbots have revolutionized the gaming industry, offering numerous benefits to game developers, players, and gaming communities. In this chapter, we explore the advantages that AI and chatbots bring to the gaming industry, enhancing player interaction, and improving game moderation.
 

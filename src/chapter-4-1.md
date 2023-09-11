@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, artificial intelligence (AI) has revolutionized various industries, and the gaming industry is no exception. One of the key applications of AI in gaming is the use of chatbots to facilitate player interactions and enhance game moderation. This chapter provides an introduction to AI and chatbots, exploring their capabilities, benefits, and potential impact on the gaming industry.
 

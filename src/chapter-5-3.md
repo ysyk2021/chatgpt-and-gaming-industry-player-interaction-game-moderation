@@ -1,5 +1,4 @@
-Chapter 5: How ChatGPT Can Improve Player Interaction and Game Moderation
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by natural language processing and artificial intelligence, presents exciting opportunities for enhancing player interaction and game moderation within the gaming industry. In this chapter, we explore the various ways in which ChatGPT can be integrated into games to improve player experience and facilitate effective moderation.
 

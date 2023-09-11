@@ -1,5 +1,4 @@
-Chapter 8: How AI and Chatbots Can Improve Player Interaction and Game Moderation
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI-powered chatbots are transforming the gaming industry, revolutionizing player interaction, and game moderation. In this chapter, we explore how AI and chatbots can improve player interaction and game moderation, transforming the gaming experience for both players and developers.
 

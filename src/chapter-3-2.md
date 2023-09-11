@@ -1,5 +1,4 @@
-Chapter 3: Common Challenges Faced by Players and Game Developers
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the integration of ChatGPT for player interaction and game moderation in the gaming industry, there are common challenges that both players and game developers encounter. This chapter explores these challenges and their impacts on the gaming experience.
 

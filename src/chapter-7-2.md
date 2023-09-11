@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends and Challenges in the Gaming Industry and ChatGPT
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the gaming industry continues to evolve, new trends and challenges emerge that impact the integration and utilization of ChatGPT for player interaction and game moderation. In this chapter, we explore some of the emerging trends and challenges faced by both the gaming industry and the implementation of ChatGPT.
 
